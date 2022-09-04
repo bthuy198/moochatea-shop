@@ -43,9 +43,12 @@
                                             <tr>
                                                 <td>${orderDetail.id}</td>
                                                 <td><% OrderDetail orderDetail = (OrderDetail)pageContext.getAttribute("orderDetail"); %>
-                                                    <%= Order.find(orderDetail.getOrderId()).getCode() %></td>
-                                                <td><%= Products.find(orderDetail.getOrderId()).getName() %></td>
-                                                <td>${orderDetail.quantity}</td>  
+                                                    <%= Order.find(orderDetail.getOrderId()).getCode() %>
+                                                </td>
+                                                <td><%= Products.find(orderDetail.getProductId()).getName() %>
+                                                </td>
+                                                <td>${orderDetail.quantity}
+                                                </td>
                                             </tr>
                                         </c:forEach>
                                     </tbody>

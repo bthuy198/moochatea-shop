@@ -3,11 +3,13 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/SHOP_DEMO/Moocha%20Tea%20Shop/web/product-list.jsp</file>
-            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/SHOP_DEMO/Moocha%20Tea%20Shop/web/public/css/auth.css</file>
-            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/SHOP_DEMO/Moocha%20Tea%20Shop/web/search.jsp</file>
-            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/SHOP_DEMO/Moocha%20Tea%20Shop/web/auth.jsp</file>
-            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/SHOP_DEMO/Moocha%20Tea%20Shop/web/public/css/product-list.css</file>
+            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/MOOCHA-TEA-SHOP/Moocha%20Tea%20Shop/src/java/org/moocha/admin/order/EditOrdersServlet.java</file>
+            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/MOOCHA-TEA-SHOP/Moocha%20Tea%20Shop/src/java/org/moocha/admin/order/IndexOrderServlet.java</file>
+            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/MOOCHA-TEA-SHOP/Moocha%20Tea%20Shop/src/java/org/moocha/impl/OrderDaoImpl.java</file>
+            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/MOOCHA-TEA-SHOP/Moocha%20Tea%20Shop/web/admin/inc/sidebar.jsp</file>
+            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/MOOCHA-TEA-SHOP/Moocha%20Tea%20Shop/web/admin/order/index.jsp</file>
+            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/MOOCHA-TEA-SHOP/Moocha%20Tea%20Shop/src/java/org/moocha/admin/orderDetail/IndexOrderDetailServlet.java</file>
+            <file>file:/C:/Users/LAPTOP%20KIM%20ANH/Documents/workspace/MOOCHA-TEA-SHOP/Moocha%20Tea%20Shop/src/java/org/moocha/model/Order.java</file>
         </group>
     </open-files>
 </project-private>
