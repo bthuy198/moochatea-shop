@@ -1,0 +1,108 @@
+.checkout-page .container {
+    margin-top: 56px;
+}
+
+.checkout-page .row{
+    display: inline-flex;
+}
+
+.checkout-page h1 {
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.checkout-page a {
+    text-decoration: none;
+}
+
+.checkout-tag a {
+    font-size: 14px;
+}
+
+.checkout-tag a:hover {
+    color: black;
+}
+
+.login-question {
+    margin-top: 20px;
+}
+
+.info-left h2 {
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.info-left h2:nth-child(1) {
+    margin-bottom: 10px;
+}
+
+.login-question .col-md-6:nth-child(2) {
+    text-align: right;
+}
+
+.login-question p {
+    font-size: 14px;
+}
+
+.form-floating {
+    margin-top: 15px;
+
+}
+
+.checkout-form label {
+    font-size: 15px;
+}
+
+.form-floating input {
+    margin-top: 0px;
+    padding: 15px 10px 15px 10px;
+}
+
+.form-floating label {
+    font-size: 13px;
+    color: #a8a8a8;
+    padding-top: 7px;
+}
+
+.form-floating input::placeholder {
+    font-size: 15px;
+}
+
+.checkbox-div {
+    margin-top: 10px;
+    margin-bottom: 30px;
+}
+
+.info-bottom{
+    display: flex;
+    margin-bottom: 60px;
+}
+
+.info-bottom a{
+    font-size: 15px;
+}
+
+.info-bottom button{
+    float: right;
+    font-size: 15px;
+    padding: 15px 25px 15px 25px;
+    border-radius: 6px;
+}
+
+/* total */
+
+.total-info{
+    margin-left: 40px;
+}
+
+.total-info .info-shipping{
+    flex: 0.25;
+}
+
+.total-info .info-shipping p{
+    display: flex;
+}
+
+
+
+

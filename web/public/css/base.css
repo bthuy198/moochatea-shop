@@ -1,0 +1,39 @@
+:root{
+    --text-color: #F8F8F8;
+    --black-color: #000000;
+    --white-color: #FFFF;
+}
+*{
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+}
+html{
+    font-size: 62.5%;
+
+}
+
+section{
+    width: 100%;
+}
+
+p{
+    font-size: 1.6rem;
+    line-height: 1.8rem;
+    box-sizing: border-box;
+}
+
+.grid{
+    width: 1200px;
+    max-width: 100%;
+    margin: 0 auto;
+}
+
+.grid__full-width{
+    width: 100%
+}
+
+.grid__row{
+    display: flex;
+    flex-wrap: wrap;
+}
