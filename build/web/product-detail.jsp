@@ -62,8 +62,8 @@
                             <ul class="menu-icons">
                                 <li class="icon" id="topnav">
                                     <div class="search-container">
-                                        <form action="SearchServlet">
-                                            <input type="text" placeholder="Search here" name="search">
+                                        <form action="SearchServlet" method="get">
+                                            <input type="text" placeholder="Search here" name="productName">
                                             <button type="submit"><i class="fa-solid fa-magnifying-glass"></i></button>
                                         </form>
                                     </div>

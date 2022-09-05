@@ -10,14 +10,10 @@ import jakarta.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.io.PrintWriter;
 import jakarta.servlet.ServletException;
-import jakarta.servlet.annotation.WebServlet;
-import jakarta.servlet.http.HttpServlet;
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
-import org.moocha.dao.CategoryDao;
 import org.moocha.dao.DatabaseDao;
 import org.moocha.dao.ProductDao;
-import org.moocha.model.Category;
 import org.moocha.model.Products;
 
 /**
